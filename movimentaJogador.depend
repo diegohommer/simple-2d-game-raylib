@@ -1,0 +1,695 @@
+# depslib dependency file v1.0
+1661573672 source:c:\users\daugs\downloads\github\jogoalgoritmos\movimentajogador\coordenadas.c
+	"coordenadas.h"
+
+1661573672 c:\users\daugs\downloads\github\jogoalgoritmos\movimentajogador\coordenadas.h
+
+1661720547 source:c:\users\daugs\downloads\github\jogoalgoritmos\movimentajogador\jogador.c
+	<stdio.h>
+	<string.h>
+	"jogador.h"
+
+1661725270 c:\users\daugs\downloads\github\jogoalgoritmos\movimentajogador\jogador.h
+	"coordenadas.h"
+
+1661730585 source:c:\users\daugs\downloads\github\jogoalgoritmos\movimentajogador\mapa.c
+	<stdio.h>
+	<string.h>
+	"mapa.h"
+
+1661729925 c:\users\daugs\downloads\github\jogoalgoritmos\movimentajogador\mapa.h
+	<stdio.h>
+	"coordenadas.h"
+	"jogador.h"
+	"bau.h"
+
+1661725636 source:c:\users\daugs\downloads\github\jogoalgoritmos\movimentajogador\movimentos.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"mapa.h"
+
+1661730650 source:c:\users\daugs\downloads\github\jogoalgoritmos\movimentajogador\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"jogador.h"
+	"mapa.h"
+	"movimentos.h"
+
+1661715490 c:\users\daugs\downloads\github\jogoalgoritmos\movimentajogador\movimentos.h
+
+1661715597 c:\users\daugs\downloads\github\jogoalgoritmos\movimentajogador\bau.h
+
+1661725270 source:c:\users\daugs\downloads\github\jogoalgoritmos\movimentajogador\bau.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"mapa.h"
+
+1662338026 source:c:\users\afonso\dropbox\pc\desktop\movimentajogador\bau.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"mapa.h"
+
+1662404320 c:\users\afonso\dropbox\pc\desktop\movimentajogador\mapa.h
+	<stdio.h>
+	<stdbool.h>
+	"coordenadas.h"
+	"jogador.h"
+	"bau.h"
+
+1661823700 c:\users\afonso\dropbox\pc\desktop\movimentajogador\coordenadas.h
+
+1661823700 c:\users\afonso\dropbox\pc\desktop\movimentajogador\jogador.h
+	"coordenadas.h"
+
+1661823700 c:\users\afonso\dropbox\pc\desktop\movimentajogador\bau.h
+
+1661823700 source:c:\users\afonso\dropbox\pc\desktop\movimentajogador\coordenadas.c
+	"coordenadas.h"
+
+1662337990 source:c:\users\afonso\dropbox\pc\desktop\movimentajogador\jogador.c
+	<stdio.h>
+	<string.h>
+	"jogador.h"
+
+1662594667 source:c:\users\afonso\dropbox\pc\desktop\movimentajogador\main.c
+	"raylib.h"
+	<stdio.h>
+	"jogador.h"
+	"coordenadas.h"
+	"mapa.h"
+	"movimentos_jogador.h"
+	"movimentos.h"
+	"arquivo.h"
+
+1661823700 c:\users\afonso\dropbox\pc\desktop\movimentajogador\movimentos.h
+
+1662595420 source:c:\users\afonso\dropbox\pc\desktop\movimentajogador\mapa.c
+	<stdio.h>
+	<string.h>
+	"mapa.h"
+	"raylib.h"
+
+1662336716 source:c:\users\afonso\dropbox\pc\desktop\movimentajogador\movimentos.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"mapa.h"
+	<windows.h>
+
+1662594719 source:c:\users\afonso\dropbox\pc\desktop\movimentajogador\movimentos_jogador.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"jogador.h"
+	"mapa.h"
+	"movimentos.h"
+
+1661825872 c:\users\afonso\dropbox\pc\desktop\movimentajogador\movimentos_jogador.h
+
+1661827870 source:c:\users\afonso\dropbox\pc\desktop\movimentajogador\gravidade.c
+
+1662337871 source:c:\users\afonso\dropbox\pc\desktop\movimentajogador\arquivo.c
+	<stdio.h>
+	"mapa.h"
+
+1662336973 c:\users\afonso\dropbox\pc\desktop\movimentajogador\arquivo.h
+	<stdio.h>
+
+1663996904 source:c:\users\daugs\downloads\movimentajogador\arquivo.c
+	<stdio.h>
+	"mapa.h"
+
+1663996904 c:\users\daugs\downloads\movimentajogador\mapa.h
+	<stdio.h>
+	<stdbool.h>
+	"coordenadas.h"
+	"jogador.h"
+	"bau.h"
+
+1663996904 c:\users\daugs\downloads\movimentajogador\coordenadas.h
+
+1663996904 c:\users\daugs\downloads\movimentajogador\jogador.h
+	"coordenadas.h"
+
+1663996904 c:\users\daugs\downloads\movimentajogador\bau.h
+
+1663996904 source:c:\users\daugs\downloads\movimentajogador\bau.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"mapa.h"
+
+1663996904 source:c:\users\daugs\downloads\movimentajogador\coordenadas.c
+	"coordenadas.h"
+
+1663996904 source:c:\users\daugs\downloads\movimentajogador\jogador.c
+	<stdio.h>
+	<string.h>
+	"jogador.h"
+
+1663996904 source:c:\users\daugs\downloads\movimentajogador\main.c
+	"raylib.h"
+	<stdio.h>
+	"jogador.h"
+	"coordenadas.h"
+	"mapa.h"
+	"movimentos_jogador.h"
+	"movimentos.h"
+	"arquivo.h"
+
+1663996904 c:\users\daugs\downloads\movimentajogador\movimentos_jogador.h
+
+1663996904 c:\users\daugs\downloads\movimentajogador\movimentos.h
+
+1663996904 c:\users\daugs\downloads\movimentajogador\arquivo.h
+	<stdio.h>
+
+1663996904 source:c:\users\daugs\downloads\movimentajogador\mapa.c
+	<stdio.h>
+	<string.h>
+	"mapa.h"
+	"raylib.h"
+
+1663997051 source:c:\users\daugs\downloads\movimentajogador\movimentos.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"mapa.h"
+	<windows.h>
+
+1663997051 source:c:\users\daugs\downloads\movimentajogador\movimentos_jogador.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"jogador.h"
+	"mapa.h"
+	"movimentos.h"
+
+1664084873 source:c:\users\daugs\downloads\github\movimentajogador\arquivo.c
+	<stdio.h>
+	<string.h>
+	"mapa.h"
+
+1664079306 c:\users\daugs\downloads\github\movimentajogador\mapa.h
+	<stdio.h>
+	<stdbool.h>
+	"coordenadas.h"
+	"jogador.h"
+	"bau.h"
+
+1663996904 c:\users\daugs\downloads\github\movimentajogador\coordenadas.h
+
+1664067955 c:\users\daugs\downloads\github\movimentajogador\jogador.h
+	"coordenadas.h"
+
+1664077500 c:\users\daugs\downloads\github\movimentajogador\bau.h
+
+1664085244 source:c:\users\daugs\downloads\github\movimentajogador\bau.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"mapa.h"
+
+1663996904 source:c:\users\daugs\downloads\github\movimentajogador\coordenadas.c
+	"coordenadas.h"
+
+1664067955 source:c:\users\daugs\downloads\github\movimentajogador\jogador.c
+	<stdio.h>
+	<string.h>
+	"jogador.h"
+
+1664084302 source:c:\users\daugs\downloads\github\movimentajogador\mapa.c
+	<stdio.h>
+	<string.h>
+	"mapa.h"
+	"arquivo.h"
+	"raylib.h"
+
+1664068384 source:c:\users\daugs\downloads\github\movimentajogador\movimentos_jogador.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"raylib.h"
+	"mapa.h"
+	"movimentos.h"
+
+1664071567 c:\users\daugs\downloads\github\movimentajogador\movimentos.h
+
+1664069843 source:c:\users\daugs\downloads\github\movimentajogador\movimentos.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"mapa.h"
+
+1664086568 source:c:\users\daugs\downloads\github\movimentajogador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"raylib.h"
+	"jogador.h"
+	"coordenadas.h"
+	"mapa.h"
+	"movimentos_jogador.h"
+	"movimentos.h"
+	"arquivo.h"
+
+1664071567 c:\users\daugs\downloads\github\movimentajogador\movimentos_jogador.h
+
+1664077032 c:\users\daugs\downloads\github\movimentajogador\arquivo.h
+	<stdio.h>
+
+1665026809 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\arquivo.c
+	<stdio.h>
+	<string.h>
+	"mapa.h"
+
+1665078637 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\mapa.h
+	<stdio.h>
+	<stdbool.h>
+	"coordenadas.h"
+	"jogador.h"
+	"bau.h"
+	"raylib.h"
+
+1665026809 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\coordenadas.h
+
+1665026809 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogador.h
+	"coordenadas.h"
+
+1665026809 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\bau.h
+
+1665026809 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\bau.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"mapa.h"
+
+1665026809 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\coordenadas.c
+	"coordenadas.h"
+
+1665026809 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogador.c
+	<stdio.h>
+	<string.h>
+	"jogador.h"
+
+1665082288 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"raylib.h"
+	"mapa.h"
+	"movimentos.h"
+	"inputs_jogador.h"
+	"menu.h"
+	"ranking.h"
+
+1664291373 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\movimentos_jogador.h
+
+1665026810 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\movimentos.h
+
+1665026809 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\arquivo.h
+	<stdio.h>
+	"mapa.h"
+
+1665078637 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\mapa.c
+	<stdio.h>
+	<string.h>
+	"mapa.h"
+	"arquivo.h"
+	"raylib.h"
+
+1665026810 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\movimentos.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"mapa.h"
+
+1664306401 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\movimentos_jogador.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"raylib.h"
+	"mapa.h"
+	"movimentos.h"
+
+1665082536 source:c:\users\daugs\downloads\github\jogotrabalhofinal\arquivo.c
+	<stdio.h>
+	<string.h>
+	"mapa.h"
+
+1665085437 c:\users\daugs\downloads\github\jogotrabalhofinal\mapa.h
+	<stdio.h>
+	<stdbool.h>
+	"coordenadas.h"
+	"jogador.h"
+	"bau.h"
+	"raylib.h"
+
+1665082536 c:\users\daugs\downloads\github\jogotrabalhofinal\coordenadas.h
+
+1665082536 c:\users\daugs\downloads\github\jogotrabalhofinal\jogador.h
+	"coordenadas.h"
+
+1665082536 c:\users\daugs\downloads\github\jogotrabalhofinal\bau.h
+
+1665082536 source:c:\users\daugs\downloads\github\jogotrabalhofinal\bau.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"mapa.h"
+
+1665082536 source:c:\users\daugs\downloads\github\jogotrabalhofinal\coordenadas.c
+	"coordenadas.h"
+
+1665082536 source:c:\users\daugs\downloads\github\jogotrabalhofinal\jogador.c
+	<stdio.h>
+	<string.h>
+	"jogador.h"
+
+1665087024 source:c:\users\daugs\downloads\github\jogotrabalhofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"raylib.h"
+	"mapa.h"
+	"movimentos.h"
+	"inputs_jogador.h"
+	"menu.h"
+	"ranking.h"
+
+1664314093 c:\users\daugs\downloads\github\jogotrabalhofinal\movimentos_jogador.h
+
+1665082536 c:\users\daugs\downloads\github\jogotrabalhofinal\movimentos.h
+
+1665082536 c:\users\daugs\downloads\github\jogotrabalhofinal\arquivo.h
+	<stdio.h>
+	"mapa.h"
+
+1665082536 source:c:\users\daugs\downloads\github\jogotrabalhofinal\movimentos.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"mapa.h"
+
+1664327499 source:c:\users\daugs\downloads\github\jogotrabalhofinal\movimentos_jogador.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"raylib.h"
+	"mapa.h"
+	"movimentos.h"
+
+1665089459 source:c:\users\daugs\downloads\github\jogotrabalhofinal\mapa.c
+	<stdio.h>
+	<string.h>
+	"mapa.h"
+	"arquivo.h"
+	"raylib.h"
+
+1664328369 source:c:\users\daugs\downloads\github\jogotrabalhofinal\desenharaylib.c
+	<stdio.h>
+	"raylib.h"
+
+1665087986 source:c:\users\daugs\downloads\github\jogotrabalhofinal\menu.c
+	<stdio.h>
+	"raylib.h"
+	"menu.h"
+	"arquivo.h"
+	"ranking.h"
+
+1665087059 c:\users\daugs\downloads\github\jogotrabalhofinal\menu.h
+	<stdio.h>
+	"mapa.h"
+	"ranking.h"
+
+1665087024 source:c:\users\daugs\downloads\github\jogotrabalhofinal\inputs_jogador.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"raylib.h"
+	"mapa.h"
+	"movimentos.h"
+	"arquivo.h"
+
+1665091059 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\arquivo.c
+	<stdio.h>
+	<string.h>
+	"mapa.h"
+
+1665091060 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\mapa.h
+	<stdio.h>
+	<stdbool.h>
+	"coordenadas.h"
+	"jogador.h"
+	"bau.h"
+	"raylib.h"
+
+1665091060 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\coordenadas.h
+
+1665091060 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\jogador.h
+	"coordenadas.h"
+
+1665091059 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\bau.h
+
+1665091059 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\bau.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"mapa.h"
+
+1665091060 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\coordenadas.c
+	"coordenadas.h"
+
+1665091060 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\inputs_jogador.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"raylib.h"
+	"mapa.h"
+	"movimentos.h"
+	"arquivo.h"
+
+1665091061 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\movimentos.h
+
+1665091059 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\arquivo.h
+	<stdio.h>
+	"mapa.h"
+
+1665091060 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\jogador.c
+	<stdio.h>
+	<string.h>
+	"jogador.h"
+
+1665091060 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"raylib.h"
+	"mapa.h"
+	"movimentos.h"
+	"inputs_jogador.h"
+	"menu.h"
+	"ranking.h"
+
+1665091060 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\inputs_jogador.h
+
+1665091061 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\menu.h
+	<stdio.h>
+	"mapa.h"
+	"ranking.h"
+
+1665091061 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\menu.c
+	<stdio.h>
+	"raylib.h"
+	"menu.h"
+	"arquivo.h"
+	"ranking.h"
+
+1665091061 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\movimentos.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"mapa.h"
+
+1665091060 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\mapa.c
+	<stdio.h>
+	<string.h>
+	"mapa.h"
+	"arquivo.h"
+	"raylib.h"
+
+1665091061 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arquivo.h"
+	"mapa.h"
+	"raylib.h"
+	"ranking.h"
+
+1665091061 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\jogotrabalhofinal\ranking.h
+	<stdio.h>
+	"mapa.h"
+
+1664387056 source:c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\arquivo.c
+	<stdio.h>
+	<string.h>
+	"mapa.h"
+
+1664387056 c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\mapa.h
+	<stdio.h>
+	<stdbool.h>
+	"coordenadas.h"
+	"jogador.h"
+	"bau.h"
+
+1664387056 c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\coordenadas.h
+
+1664387056 c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\jogador.h
+	"coordenadas.h"
+
+1664387056 c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\bau.h
+
+1664387056 source:c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\bau.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"mapa.h"
+
+1664387056 source:c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\coordenadas.c
+	"coordenadas.h"
+
+1664387056 source:c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\inputs_jogador.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"raylib.h"
+	"mapa.h"
+	"movimentos.h"
+	"arquivo.h"
+
+1664387056 c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\movimentos.h
+
+1664402468 c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\arquivo.h
+	<stdio.h>
+	"mapa.h"
+
+1664387056 source:c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\jogador.c
+	<stdio.h>
+	<string.h>
+	"jogador.h"
+
+1664749037 source:c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"raylib.h"
+	"mapa.h"
+	"movimentos.h"
+	"inputs_jogador.h"
+	"menu.h"
+	"ranking.h"
+
+1664387056 c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\inputs_jogador.h
+
+1664636012 c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\menu.h
+	<stdio.h>
+	"mapa.h"
+	"ranking.h"
+
+1664748970 c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\ranking.h
+	<stdio.h>
+	"mapa.h"
+
+1664387144 source:c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\mapa.c
+	<stdio.h>
+	<string.h>
+	"mapa.h"
+	"arquivo.h"
+	"raylib.h"
+
+1664639340 source:c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\menu.c
+	<stdio.h>
+	"raylib.h"
+	"menu.h"
+	"arquivo.h"
+	"ranking.h"
+
+1664387056 source:c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\movimentos.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"mapa.h"
+
+1664748970 source:c:\users\pichau\desktop\jogotrabalhofinal\jogotrabalhofinal\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arquivo.h"
+	"mapa.h"
+	"raylib.h"
+	"ranking.h"
+
+1665026809 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\inputs_jogador.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"raylib.h"
+	"mapa.h"
+	"movimentos.h"
+	"arquivo.h"
+
+1665026809 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\inputs_jogador.h
+
+1665026810 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\menu.h
+	<stdio.h>
+	"mapa.h"
+	"ranking.h"
+
+1665026810 c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\ranking.h
+	<stdio.h>
+	"mapa.h"
+
+1665082357 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\menu.c
+	<stdio.h>
+	"raylib.h"
+	"menu.h"
+	"arquivo.h"
+	"ranking.h"
+
+1665082357 source:c:\users\afonso\dropbox\pc\desktop\jogotrabalhofinal\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arquivo.h"
+	"mapa.h"
+	"raylib.h"
+	"ranking.h"
+
+1665087046 c:\users\daugs\downloads\github\jogotrabalhofinal\inputs_jogador.h
+
+1665082537 c:\users\daugs\downloads\github\jogotrabalhofinal\ranking.h
+	<stdio.h>
+	"mapa.h"
+
+1665087693 source:c:\users\daugs\downloads\github\jogotrabalhofinal\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arquivo.h"
+	"mapa.h"
+	"raylib.h"
+	"ranking.h"
+
