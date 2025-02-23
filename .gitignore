@@ -1,0 +1,32 @@
+# Ignore build/compiled files
+*.o
+*.out
+*.a
+*.so
+*.exe
+
+# Ignore IDE specific files
+.vscode/
+*.cbp
+*.depend
+*.layout
+
+# Ignore MacOS specific files
+.DS_Store
+
+# Ignore backup files (e.g., vim or emacs)
+*~
+*.swp
+
+# Ignore Raylib build folder if it's generated
+build/
+
+# Ignore generated data files
+*.dat
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+tmp/
+
